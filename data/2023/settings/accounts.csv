@@ -1,0 +1,14 @@
+AccountType,AccountCategory,Currency,Account,InitialBalance,Link
+Assets,Current_Assets,HUF,Cash,0,N/A
+Assets,Current_Assets,HUF,Unicredit_Checking,0,https://hu.unicreditbanking.eu/hu/login_form
+Assets,Current_Assets,USD,Cash,0,N/A
+Assets,Current_Assets,USD,HSBC_Checking,0,https://www.us.hsbc.com/
+Assets,Current_Assets,USD,HSBC_Savings,0,https://www.us.hsbc.com/
+Assets,Current_Assets,USD,CapitalOne_Savings,0,https://www.capitalone.com/
+Assets,Current_Assets,USD,Wise,0,https://wise.com/user/account/
+Assets,Investments,USD,401k,0,http://digital.alight.com/
+Assets,Investments,USD,Roth_IRA,0,https://us.etrade.com/e/t/user/login
+Assets,Investments,USD,Roth_IRA_Viktor,11192.14,https://us.etrade.com/e/t/user/login
+Assets,Car,USD,Car,5000,N/A
+Liabilities,Current_Liabilities,USD,CapitalOne,0,https://www.capitalone.com/
+Liabilities,Current_Liabilities,USD,HSBC_Mastercard,0,https://www.us.hsbc.com/
